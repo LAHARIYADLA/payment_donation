@@ -1,5 +1,4 @@
-# Payment-Gateway-Integration
-#TASK-3
+# Payment-Gateway-Integration #TASK-3
 Sparks Foundation Internship Project : Payment Gateway Integration
 
  ## Features
